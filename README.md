@@ -1,8 +1,7 @@
 # OxyMod
 OxyMod tool does various modifications of OnePlus's OxygenOS.
 
-| 🕹️ OxyMod Console |
-|:-----------------|
+## 🕹️ OxyMod Console
 ```console
                             
          /  \ \_/ \_/       
